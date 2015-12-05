@@ -1,0 +1,9 @@
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\obj\Debug\Timer.MainForm.resources
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\ForceXX\Documents\SharpDevelop Projects\Timer\Timer\obj\Debug\Timer.Timer_ext.resources
